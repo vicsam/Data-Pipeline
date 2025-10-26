@@ -1,4 +1,3 @@
-# discovery/streamlit_app.py
 import streamlit as st
 import json
 from kafka import KafkaProducer
